@@ -2,7 +2,7 @@
 
 かんたんwebVRフレームワーク「[A-Frame](https://aframe.io/)」はじめのいっぽ  
 
-## 作品集
+## VRハッカソン作品集 2022-04-10
 
 - [マインクラフトをちょっとカスタマイズ](https://FukeKazki.github.io/aframe-examples/minecraft.html) ([src](https://github.com/FukeKazki/aframe-examples/blob/main/minecraft.html))
 - [西山公園でバンジージャンプしてる風にしました](https://tomomine.github.io/aframe-examples/tower.html) ([src](https://github.com/tomomine/aframe-examples/blob/main/tower.html))
