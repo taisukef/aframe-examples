@@ -4,9 +4,9 @@
 
 ## 作品集
 
-- [マインクラフトをちょっとカスタマイズ](https://github.com/FukeKazki/aframe-examples/blob/main/minecraft.html)
-- [西山公園でバンジージャンプしてる風にしました](https://github.com/tomomine/aframe-examples/blob/main/tower.html)
-- [時計を作りました](https://github.com/tt4638/aframe-examples/blob/main/clock.html)
+- [マインクラフトをちょっとカスタマイズ](https://FukeKazki.github.io/aframe-examples/minecraft.html)
+- [西山公園でバンジージャンプしてる風にしました](https://tomomine.github.io/aframe-examples/tower.html)
+- [時計を作りました](https://tt4638.github.io/aframe-examples/clock.html)
 
 ## シンプルなテスト
 https://taisukef.github.io/aframe-examples/test.html
