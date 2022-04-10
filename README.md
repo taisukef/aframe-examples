@@ -25,3 +25,7 @@ https://taisukef.github.io/aframe-examples/tower_teleport.html
 - [VRふくい](https://code4fukui.github.io/vr-fukui/vr-view.html#img/vr-hanadojo.jpg) ([src](https://github.com/code4fukui/vr-fukui/blob/main/vr-view.html))
 - [1to20 ゲーム](https://fukuno.jig.jp/2510)
 - [3Dオブジェクトに触ったら何かするサンプル](https://github.com/code4fukui/glb-viewer/blob/main/cic-tokyo.html)
+
+## 作品集
+
+- [マインクラフトをちょっとカスタマイズ](https://github.com/FukeKazki/aframe-examples/blob/main/minecraft.html)
